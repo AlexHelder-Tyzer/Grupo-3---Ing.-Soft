@@ -26,6 +26,7 @@ La tutoría es un conjunto de procesos y actividades de información, acompañam
 ### Herramientas a utilizar:
 
 Backlog: [Backlog en trello](https://trello.com/b/d0lKxO7F/trabajos-1)
+
 Prototipo: [JUSTINMIND](9.1.1)
 
 Informe: [Informe del proyecto Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
